@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/mauricio/vscodeProjects/Capgemini/DesafiosCapgemini/Questao1/Questao1.csproj": {}
+  },
+  "projects": {
+    "/home/mauricio/vscodeProjects/Capgemini/DesafiosCapgemini/Questao1/Questao1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/mauricio/vscodeProjects/Capgemini/DesafiosCapgemini/Questao1/Questao1.csproj",
+        "projectName": "Questao1",
+        "projectPath": "/home/mauricio/vscodeProjects/Capgemini/DesafiosCapgemini/Questao1/Questao1.csproj",
+        "packagesPath": "/home/mauricio/.nuget/packages/",
+        "outputPath": "/home/mauricio/vscodeProjects/Capgemini/DesafiosCapgemini/Questao1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mauricio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.2.0-preview-20220131-20, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
