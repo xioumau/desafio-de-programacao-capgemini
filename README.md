@@ -15,9 +15,9 @@ Em um terminal, navegue até o diretório onde está o projeto e execute o segui
  ```  
 
 Nesse repositório cada projeto fica em seu respectivo diretório: 
-- Questao1
-- Questao2
-- Questao3
+- [Questao1](https://github.com/xioumau/desafio-de-programacao-capgemini/tree/main/Questao1)
+- [Questao2](https://github.com/xioumau/desafio-de-programacao-capgemini/tree/main/Questao2)
+- [Questao3](https://github.com/xioumau/desafio-de-programacao-capgemini/tree/main/Questao3)
 
 > ## TESTES
 
