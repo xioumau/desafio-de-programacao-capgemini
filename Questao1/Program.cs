@@ -15,7 +15,6 @@ namespace Questao1
                 arr[i] = "*";
                 Console.WriteLine(PrintarEscada(n, arr));
             }
-            
         }
 
         public static string PrintarEscada(int n, string[] arr)
